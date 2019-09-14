@@ -1,0 +1,21 @@
+{
+  "name": "testcafelocal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "dateformat": "^3.0.3",
+    "googleapis": "^27.0.0",
+    "node-rest-client": "^3.1.0",
+    "xml-to-json-stream": "^1.0.3"
+  },
+  "devDependencies": {
+    "testcafe": "^0.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
