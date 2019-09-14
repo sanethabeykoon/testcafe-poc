@@ -24,7 +24,7 @@ const problemPage = new ProblemPage(wfSpec, parameters);
 
 fixture `Test Environment`;
 
-test.page `http://hmd.ebuildertest.io.s3-website-eu-west-1.amazonaws.com`
+test.page `http://url.com`
 ('Test Case: Service case creation - Front end scenario', async t => {
 
     caseId = null;
