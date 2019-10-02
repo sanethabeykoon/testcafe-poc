@@ -18,7 +18,7 @@ export default class SelectCountryPage {
     async selectCountry() {
         await t.expect(this.countryName.exists).ok('countryName element does not exist.')
         .click(this.countryName)
-        .navigateTo('http://hmd.ebuildertest.io.s3-website-eu-west-1.amazonaws.com/' + this.parameters.locale + '/repair');
+        .navigateTo('url');
     }
 
     async verifyTextContent(){
