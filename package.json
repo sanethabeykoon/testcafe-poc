@@ -6,7 +6,7 @@
   "dependencies": {
     "bunyan": "^1.8.12",
     "dateformat": "^3.0.3",
-    "googleapis": "^27.0.0",
+    "googleapis": "^39.1.0",
     "node-rest-client": "^3.1.0",
     "xml-to-json-stream": "^1.0.3"
   },
