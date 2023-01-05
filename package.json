@@ -11,7 +11,7 @@
     "xml-to-json-stream": "^1.0.3"
   },
   "devDependencies": {
-    "testcafe": "^0.19.1"
+    "testcafe": "^2.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
